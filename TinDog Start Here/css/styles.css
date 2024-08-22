@@ -1,0 +1,24 @@
+/* ID */
+ #title {
+    background-color: #ff4c68;
+ }
+
+
+/* Class */
+.container-fluid {
+    padding: 3% 10%;
+}
+
+
+
+/* HTML Tag */
+
+h1 {
+    font-family: "Montserrat";
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900;
+    font-style: italic;
+}
+
+

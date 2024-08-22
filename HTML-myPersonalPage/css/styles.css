@@ -1,0 +1,66 @@
+body {
+    background-color: #468585;
+    text-align: center;
+}
+
+h1 {
+    color:#DEF9C4;
+    /* 16px = 100% = 1rem = 1em % and em makes font size change dynamically*/
+    font-size: 3.9rem; /* rem doesn't inherit from parent. Most reliable */
+    font-family: 'Sacramento', cursive;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    font-size: 2.5rem;
+    margin: 20px auto 0 auto;
+    text-align: center;
+}
+
+h3 {
+    color:#DEF9C4;
+    
+}
+
+hr {
+    height: 0px;
+    background-color: none;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 6px;
+    border-color: #9CDBA6;
+    width: 30%;
+    
+}
+
+
+
+.top-container{
+    background-color: #9CDBA6;
+    text-align: center;
+    
+}
+
+.skill-pic {
+    height: 25%;
+    width: 25%;
+    margin-right: 20px;
+    float: left;
+    
+}
+
+.pokemon-pic {
+    height: 25%;
+    width: 25%;
+    margin-left: 20px;
+    float: right;
+    
+}
+
+.skill-row {
+    margin: 35px auto;
+    text-align: left;
+    width: 50%;
+    line-height: 1.2;
+}
+
